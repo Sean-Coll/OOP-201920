@@ -11,7 +11,11 @@ while my_variable < 20:
                 my_variable +=1
                 print(my_variable)
         else:
+<<<<<<< HEAD
                 my_variable = (my_variable + 20)
+=======
+                my_vairable = (my_variable + 20)
+>>>>>>> upstream/master
                 print('new')
 
 
